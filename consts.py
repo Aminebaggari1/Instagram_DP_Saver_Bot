@@ -3,7 +3,7 @@ from telegram.utils.helpers import escape_markdown as es
 
 
 def welcome_msg():
-    welcome_msg = '''<b>Welcome To the Bot</b>🖐🖐
+    welcome_msg = '''<b>مرحبا بك في بوتي</b>🖐🖐
  <i>Send me anyones instagram username or profile url to get their DP</i>
  ex : <b>virat.kohli</b> , <b>thenameisyash</b> etc'''
 
